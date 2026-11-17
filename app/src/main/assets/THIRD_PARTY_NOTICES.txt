@@ -1,0 +1,10 @@
+Display Off includes adb-kt v1.0.13, Copyright 2026 rhythmcache, licensed under Apache License 2.0. See adb-kt-LICENSE.txt.
+
+Display Off includes spake2-kt v1.0.2, Copyright 2026 rhythmcache, licensed under Apache License 2.0. See spake2-kt-LICENSE.txt.
+
+Bouncy Castle 1.86 is licensed under the MIT License. Its license text is included at META-INF/LICENSE.md in this APK.
+
+Sources:
+- https://github.com/rhythmcache/adb-kt/tree/v1.0.13
+- https://github.com/rhythmcache/spake2-kt/tree/v1.0.2
+- https://www.bouncycastle.org/
